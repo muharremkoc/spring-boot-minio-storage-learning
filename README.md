@@ -2,7 +2,7 @@
 
 
 ## Goal
-Spring Boot File Storage with NinIO and Bucket Notification with PostgreSQL
+Spring Boot File Storage with MinIO and Bucket Notification with PostgreSQL
 
 ## Technologies
 - Spring Boot
