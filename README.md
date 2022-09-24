@@ -55,7 +55,7 @@ table="files"
 format="namespace"
 
 
-Yedinci kısımın ilk işlemi olaram "mc admin info "ALIAS" –json" komutu ile postgresql alanımızı kontrol ediyoruz.
+Yedinci kısımın ilk işlemi olarak "mc admin info "ALIAS" –json" komutu ile postgresql alanımızı kontrol ediyoruz.
 
 ![image](https://user-images.githubusercontent.com/80245013/192085331-930a720e-c5e5-4c96-a107-881ab92e3105.png)
 
